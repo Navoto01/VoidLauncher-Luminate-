@@ -1,25 +1,11 @@
 # VoidLauncher 🚀
 
-A clean, minimalistic Android launcher built from scratch — focused on performance, simplicity, and customization.
+All project files are uploaded, feel free to use them!
+## Ummm, sorry if its not optimized as I said, I made it in 1 day (okay half day) and I was focusing on design :c
 
-## ✨ Features
+## 🛠️ Infos
 
-- Home screen with app grid layout
-- Custom icon support
-- Smooth app launch animations
-- Dark/light theme support
-- App drawer (WIP / upcoming)
-
-## 📸 Screenshots
-
-> *(Add screenshots here if you'd like — just drag image files into your GitHub README once uploaded)*
-
-## 🛠️ Tech Stack
-
-- **Language:** Kotlin
-- **Framework:** Android SDK
-- **Build Tool:** Gradle (KTS)
-- **Minimum SDK:** (Add this if known, e.g., API 21)
-
-## 📂 Project Structure
-
+- **Made in Android Studio**
+- **Kotlin DSL**
+- **Minimum SDK:** 24
+- **Target SDK:** 35
